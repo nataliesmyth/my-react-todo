@@ -4,7 +4,7 @@
   "engines": {
     "node": "v10.15.0"
   },
-  "homepage": "https://nataliesmyth.github.io/congenial-carnival",
+  "homepage": "https://nataliesmyth.github.io/ns-react-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
