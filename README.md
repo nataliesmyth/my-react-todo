@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# DoBettr
+
+To do application created with react
+
+## Acknowledgements
+
+Background pattern: <https://codepen.io/justynaj>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
